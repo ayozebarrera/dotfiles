@@ -1,0 +1,6 @@
+[user]
+	name = Ayoze Barrera
+	email = ayozebarrera@gmail.com
+
+[core]
+	excludesfile = ~/.gitignore
