@@ -1,0 +1,2 @@
+# Make tab autocomplete regardless filename case
+set completion-ignore-case on
