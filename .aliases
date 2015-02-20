@@ -10,13 +10,12 @@ alias -- -="cd -"
 alias d="cd ~/Dropbox"
 alias dl="cd ~/Downloads"
 alias dt="cd ~/Desktop"
-alias p="cd ~/Sites"
+alias si="cd ~/Sites"
 alias g="git"
 alias h="history"
 alias j="jobs"
 
 # Personal shortcuts for my projects + meteor
-
 alias capua="cd ~/Sites/capua/blog && meteor"
 alias beralons="cd ~/Sites/be-ralons && meteor"
 
